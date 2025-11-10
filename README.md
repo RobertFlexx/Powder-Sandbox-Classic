@@ -108,7 +108,7 @@ Released under the BSD 3-Clause License.
 **Robert (@RobertFlexx)**
 Creator of FerriteOS, custom shells, editors, and countless experimental programming tools.
 
-GitHub: [https://github.com/RobertFlexx](https://github.com/RobertFlexx)
+GitHub projects: [https://github.com/RobertFlexx](https://github.com/RobertFlexx)
 
 ---
 
