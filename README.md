@@ -4,6 +4,7 @@ The original **C++17 + ncurses** version of the Powder Sandbox — a retro-style
 
 This edition delivers the raw, blazing-fast terminal experience with pixel-precise simulation logic, refined plant and seaweed growth, and classic minimalism — everything that made the sandbox chaotic, beautiful, and addictive.
 
+### See [GameHub](https://github.com/RobertFlexx/Powder-Sandbox-GameHub) for more editions of this game.
 ---
 
 ## Features
